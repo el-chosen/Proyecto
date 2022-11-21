@@ -1,0 +1,36 @@
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\bin\Debug\ModuloIV.exe.config
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\bin\Debug\ModuloIV.exe
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\bin\Debug\ModuloIV.pdb
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\bin\Debug\ModuloIV.xml
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.GenerateResource.cache
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.exe
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.xml
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.pdb
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmLogin.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmMenu.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmConsulta.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmOrdenEmpleado.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmInsertarEmp.resources
+C:\Users\Javier\Documents\Visual Studio 2022\Proyecto\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmListarEmpleados.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\bin\Debug\ModuloIV.exe.config
+D:\Knill\source\repos\ModuloIV\ModuloIV\bin\Debug\ModuloIV.exe
+D:\Knill\source\repos\ModuloIV\ModuloIV\bin\Debug\ModuloIV.pdb
+D:\Knill\source\repos\ModuloIV\ModuloIV\bin\Debug\ModuloIV.xml
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.AssemblyReference.cache
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.SuggestedBindingRedirects.cache
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmConsulta.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmInsertarEmp.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmListarEmpleados.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmLogin.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmMenu.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.frmOrdenEmpleado.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.Resources.resources
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.GenerateResource.cache
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.vbproj.CoreCompileInputs.cache
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.exe
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.xml
+D:\Knill\source\repos\ModuloIV\ModuloIV\obj\Debug\ModuloIV.pdb
