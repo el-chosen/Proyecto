@@ -1,5 +1,5 @@
 ﻿Imports System.Runtime.InteropServices
-Public Class Form1
+Public Class Login
 #Region "Close and Minimize Form - Cerrar y Minimizar Formulario"
     Private Sub btnClose_Click(sender As Object, e As EventArgs) Handles btnClose.Click
         Application.Exit()
@@ -51,9 +51,11 @@ Public Class Form1
 
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
         If txtUser.Text = "admin" Then
-            admin.Show()
+            Dashboard.Show()
+            Me.Hide()
+
         ElseIf txtUser.Text = "user" Then
-            Usuario.Show()
+
         End If
     End Sub
 

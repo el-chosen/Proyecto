@@ -1,0 +1,17 @@
+C:\Users\Pc-01\source\repos\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Pc-01\source\repos\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Pc-01\source\repos\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Pc-01\source\repos\Usuario\Usuario\bin\Debug\Usuario.xml
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.vbproj.AssemblyReference.cache
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Form1.resources
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Resources.resources
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.vbproj.GenerateResource.cache
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.vbproj.CoreCompileInputs.cache
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.xml
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Registro_Usuario.resources
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Registro_Producto.resources
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Compra_Producto.resources
+C:\Users\Pc-01\source\repos\Usuario\Usuario\obj\Debug\Usuario.Reporte.resources

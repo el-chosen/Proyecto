@@ -1,0 +1,35 @@
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.AssemblyReference.cache
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.admin.resources
+C:\Users\Pc-01\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Usuario.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.AssemblyReference.cache
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Registro_Usuario.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.admin.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Dashboard.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Usuario.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Registro_Producto.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Compra_Producto.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\obj\Debug\Proyecto.Reporte.resources
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Pc-01\source\repos\1 respaldo proyecto\experimentro\Proyecto\Proyecto\bin\Debug\Proyecto.xml
