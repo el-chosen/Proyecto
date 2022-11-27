@@ -1,0 +1,10 @@
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\bin\Debug\CDatos.dll
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\bin\Debug\CDatos.pdb
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\bin\Debug\CDatos.xml
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.vbproj.AssemblyReference.cache
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.Resources.resources
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.vbproj.GenerateResource.cache
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.vbproj.CoreCompileInputs.cache
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.dll
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.xml
+D:\Users\Knill\GitHub\ProyectoDS8\Proyecto-master 2\CDatos\obj\Debug\CDatos.pdb
