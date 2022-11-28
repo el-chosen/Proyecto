@@ -1,6 +1,6 @@
 ﻿
 Imports System.Windows
-
+Imports CDatos
 Public Class Dashboard
 #Region "Funcionalidades del Formulario"
     'RESIZE DEL FORMULARIO- CAMBIAR TAMAÑO'
@@ -74,6 +74,27 @@ Public Class Dashboard
 
 
 #End Region
+
+    Private Sub Dashboard0_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        If nil = 1 Then
+            lbl_rol.Text = "Administrador"
+            Label2.Text = use
+            Label3.Text = ema
+        ElseIf nil = 2 Then
+            lbl_rol.Text = "Chequeador"
+            Label2.Text = use
+            Label3.Text = ema
+        ElseIf nil = 3 Then
+            lbl_rol.Text = "Facturador"
+            Label2.Text = use
+            Label3.Text = ema
+        Else
+            lbl_rol.Text = "Cliente"
+            Label2.Text = use
+            Label3.Text = ema
+        End If
+    End Sub
     Private Sub AbrirFormEnPanel(Of Miform As {Form, New})()
 
         Dim Formulario As Form
@@ -109,9 +130,6 @@ Public Class Dashboard
         btn_registrar_usuario.BackColor = Color.FromArgb(12, 61, 92)
     End Sub
 
-    Private Sub panelFormularios_Paint(sender As Object, e As PaintEventArgs) Handles panelFormularios.Paint
-
-    End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs)
         AbrirFormEnPanel(Of Compra_Producto)()
@@ -128,6 +146,10 @@ Public Class Dashboard
     End Sub
 
     Private Sub panelBarraTitulo_Paint(sender As Object, e As PaintEventArgs) Handles panelBarraTitulo.Paint
+
+    End Sub
+
+    Private Sub panelMenu_Paint(sender As Object, e As PaintEventArgs) Handles panelMenu.Paint
 
     End Sub
 

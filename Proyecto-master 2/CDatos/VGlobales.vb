@@ -8,6 +8,7 @@ Public Module VariablesGlobales
     Public cm As SqlCommand
     Public dr As SqlDataReader
     Public nil As Integer
+    Public ema, use As String
     Public ms As New MemoryStream
 
 End Module

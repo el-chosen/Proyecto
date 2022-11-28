@@ -8,6 +8,17 @@ Public Class Registro_Usuario
 
     Private Sub Form2Usuario_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         conectarDb()
+        Dim sqlDa As SqlDataAdapter
+        Dim dtResultado As New DataTable
+        Dim sqlQuery As String = "select id,nombre,email,foto from usuarios"
+        sqlDa = New SqlDataAdapter(sqlQuery, myConn)
+        sqlDa.Fill(dtResultado)
+        If dtResultado.Rows.Count <> 0 Then
+            DataGridView1.DataSource = dtResultado
+        End If
+        If myConn.State <> ConnectionState.Closed Then myConn.Close()
+        DataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnMode.Fill
+
     End Sub
 
     Private Sub btn_cerrar_Click(sender As Object, e As EventArgs) Handles btn_cerrar.Click

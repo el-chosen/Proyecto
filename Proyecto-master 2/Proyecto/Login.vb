@@ -62,6 +62,7 @@ Public Class Login
                 .CommandType = CommandType.StoredProcedure
                 .Parameters.AddWithValue("@Username", txtUser.Text)
                 .Parameters.AddWithValue("@Pass", txtPass.Text)
+                .Parameters.Add("@Email", SqlDbType.VarChar, 100).Direction = ParameterDirection.Output
                 .Parameters.Add("@ValidLogin", SqlDbType.Int).Direction = ParameterDirection.Output
                 .Parameters.Add("@Nivel", SqlDbType.Int).Direction = ParameterDirection.Output
                 .ExecuteScalar()
@@ -75,24 +76,32 @@ Public Class Login
                 End If
                 If CInt(.Parameters("@Nivel").Value = 1) Then
                     nil = .Parameters("@Nivel").Value
+                    ema = .Parameters("@Email").Value
+                    use = .Parameters("@Username").Value
                     MsgBox("Bienvenido Administrador " & txtUser.Text, MessageBoxIcon.Information)
                     'metodo para mostrar el mdi para admins
                     Dashboard.Show()
                     Me.Hide()
                 ElseIf CInt(.Parameters("@Nivel").Value = 2) Then
                     nil = .Parameters("@Nivel").Value
+                    ema = .Parameters("@Email").Value
+                    use = .Parameters("@Username").Value
                     MsgBox("Bienvenido Inventario " & txtUser.Text, MessageBoxIcon.Information)
                     'metodo para mostrar el mdi para admins
                     Dashboard.Show()
                     Me.Hide()
                 ElseIf CInt(.Parameters("@Nivel").Value = 3) Then
                     nil = .Parameters("@Nivel").Value
+                    ema = .Parameters("@Email").Value
+                    use = .Parameters("@Username").Value
                     MsgBox("Bienvenid@ Cajer@ " & txtUser.Text, MessageBoxIcon.Information)
                     'metodo para mostrar el mdi para admins
                     Dashboard.Show()
                     Me.Hide()
                 ElseIf CInt(.Parameters("@nivel").Value = 0) Then
                     nil = .Parameters("@Nivel").Value
+                    ema = .Parameters("@Email").Value
+                    use = .Parameters("@Username").Value
                     MsgBox("Bienvenido Usuario " & txtUser.Text, MessageBoxIcon.Information)
                     'metodo para mostrar el mdi para usuarios
                     Usuario.Show()
